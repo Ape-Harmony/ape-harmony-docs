@@ -1,0 +1,302 @@
+Here is a summary for my NFT lien protocol
+
+
+
+The platform will facilitate the buying, selling, and repayment of
+loans against NFTs, as well as the buying and selling of the NFTs
+themselves in order to bring those loans to maturation. It will be a
+web browser based platform with the possible addition of a standalone
+application for desktop or mobile in the future.
+
+NFT owners who wish to "sell" a loan against their NFT must create a
+wallet on our platform. Similar to the wallets created on the Gnosis
+multisignature wallet platform, the wallets created on our platform
+will be non-custodial (only the wallet owner can transact with them,
+not the platform or us as a company) but will be restricted by certain
+rules written to the blockchain contract at the creation of each
+individual wallet as well as whenever loans are sold.
+
+The main risks as I see them, are 1. someone might learn about the
+system and release a similar platform before we do and thus steal our
+first mover advantage, and 2. we might make critical errors in the
+coding of the platform undermining the trust required by our customers
+to use the platform, and of these potential coding errors the worst
+would be errors in the solidity (blockchain) code, so while the
+platform is not extremely complex, it is of absolute importance that
+we 1. build it in secret and 2. build it without any critical errors
+upon launch.
+
+The main motivation for NFT owners to use our platform is that they
+can monetize their NFT without selling it, and unlike other lending
+platforms loans on our platform do not accrue interest nor do they
+expire at a certain time, and thus NFT owners do not run the risk of
+auto-liquidation which occurs on all other lending platforms. The main
+motivation of lenders (investors) to use our platform is first 1. the
+ability to invest in high value NFT assets without having the full
+amount required to purchase such an NFT, for example a lender can
+"invest" in an 80 ETH Bored Ape NFT for only 8 ETH, or even 0.8 ETH,
+and second 2. the ability to buy loans at a discount which are
+guaranteed to repay at "spot price".
+
+When a lender buys a lien from an NFT owner, the "spot price" or SP is
+written to the contract. What I mean by spot price is the
+non-manipulated floor price, in other words if the floor price of
+Bored Apes is 80 ETH but there happens to be some outlier for any
+reason for example by user error (a user accidentally lists his NFT
+for 8 ETH instead of 80 ETH). The other way a floor price may be
+manipulated is on low volume NFT collections where the average trade
+price for the last 7 days is 80 ETH but listing prices for some reason
+are considerably lower, for example 70 ETH. A third way the floor
+price and average sale price may be manipulated is through private
+sales. In other words if there are many private sales of Bored Apes
+for 50 ETH in the past few days, that does not necessarily the true
+price because these private sales can simply be a user selling the NFT
+to himself from one of his wallets to another. Thus it is necessary to
+take into account all these considerations in order to determine the
+"true average price" or what we call "spot price".
+
+Once the spot price is determined automatically through the rules
+which are hardcoded to our contract, the next step is to determine
+what price the lender paid for the loan in relation to that spot price
+and the percentage of the total equity he received in the transaction.
+For example if the Bored Ape spot price is 80 ETH and the lender pays
+8 ETH for 10% of the equity of a Bored Ape NFT, then he purchased the
+lien at spot price. If he paid 10 ETH for 10% then he purchased the
+lien at 125% of spot price. If 12 ETH then 150% of spot price and if
+6ETH then 75% of spot price and so on.
+
+Spot price is not a fixed value, but always in flux. The spot price of
+Bored Apes might be 80 ETH today, while tomorrow it is 75 ETH and next
+Friday it is 85 ETH and so on. So spot price only has meaning when
+given a specific date and time, for example the spot price on 2/11/23
+at 3:05 PM.
+
+There are two times we must determine spot price: 1. when the lien is
+created, in other words when a lender/investor buys a lien from an NFT
+owner, and 2. when the lien is destroyed by NFT owner either repaying
+the lien or selling the NFT to a third party forcing the repayment to
+the lender from the proceeds of the sale. The first we call the Launch
+Price or "L" (the launch or publishing to the blockchain of the lien)
+and the second we call the End Price or "E" when the lien is destroyed
+according the rules of the contract.
+
+The lien platform, the wallets created on it, and every contract
+created by the wallets use L and E which are just spot prices taken at
+two specific dates and times, in order to enforce fair liquidations of
+the NFTs to repay liens. This is achieved by something which I devised
+called the "Best of 3" System". But first we must determine a couple
+more numbers to create our Best of 3 System.
+
+The next number we must determine is what I call the Adjusted Price or
+"AP" which is derived by taking the amount in ETH paid by the lender
+divided by the percentage of equity received for the lien. For example
+if the lender pays 10 ETH for 10% of a Bored Ape when the spot price
+is 80 ETH, then the AP is 100 ETH. Next we determine the Price
+Multiplier or "PM" by dividing the adjusted price (AP) by the spot
+price (SP), for example in this case 100 ETH by 80 ETH which is 1.25
+
+The final two numbers we must note are the "Equity Percentage"  or EP
+which is simply how much equity the lender received when he bought the
+lien, and the "Real Sale Price" or RP which is simply the actual
+amount the NFT sells for upon liquidation to repay the liens.
+
+The "BEST OF 3" system ensures that upon liquidation of an NFT which
+has liens against it, the lender shall receive the best (or highest)
+of 3 amounts. The three amounts are:
+
+A. RP times EP
+B. E times EP
+C. E times EP times PM
+
+The reason we must account for both the second and third options, is
+that a lender might purchase a lien at a discount to the current spot
+price. For example if the spot price of Bored Apes is 80 ETH but the
+lender buys 10% for only 7.2 ETH then he will have bought the lien at
+a 10% discount, and thus in the case of discounted liens C will be
+less than B, while the reverse is true in a more bullish market where
+lenders pay a premium for the liens.
+
+A few practical examples:
+
+If Mike buys 10% equity of a Bored Ape for 7.2 ETH when the spot price
+is 80 ETH and the NFT owner later sells the NFT for 99 ETH when the
+spot price is 90 ETH then...
+
+EP = 10%
+PM = 0.9
+L = 80 ETH
+E = 90 ETH
+RP = 99 ETH
+
+According to the Best of 3 System...
+
+A = 9.9 ETH
+B = 9 ETH
+C = 8.1 ETH
+
+Therefore Mike receives A or 9.9 ETH which is the highest value or
+"best of 3" at the time of this sale.
+
+If Lucy buys 20% equity of a Bored Ape for 25 ETH when the spot price
+is 100 ETH and the NFT owner later sells the NFT for 180 ETH when the
+spot price is 200 ETH then...
+
+EP = 20%
+PM = 1.25
+L = 100 ETH
+E = 200 ETH
+RP = 180 ETH
+
+According to the Best of 3 System...
+
+A = 180 x 20% = 36 ETH
+B = 200 x 20% = 40 ETH
+C = 200 x 20% x 1.25 = 50 ETH
+
+Therefore Lucy receives C or 50 ETH which is the highest value and
+"best of 3" at the time of sale.
+
+The Lien Platform the creation of a new wallet by NFT owners in order
+to sell liens against their NFT, but in many ways this wallet
+functions the same as a metamask non-custodial wallet. We will use a
+"whitelist" system enabling the owner of such a wallet to connect it
+to safe contracts for such things as Discord or Twitter verification,
+Tokenproof and other highly reliable destinations. He will not be able
+to mint new NFTs from unknown sites or connect to any contract for
+that matter which is not on the whitelist.
+
+Potential lenders/investors will search our platform similarly to how
+they search OpenSea according to collection, price, etc. In fact the
+Lien Market will look very much like a standard NFT marketplace, but
+of course there will be additional filtering options and more
+information on each individual NFT page.
+
+For example the individual NFT page for Bored Ape #1185 (my crown ape)
+might look like this.
+
+List price = 500 ETH (users can purchase the NFT outright for the full 500 ETH)
+Lien price = 450 ETH (users can purchase liens in any amount according
+to a full price of 450 ETH)
+**Logically the lien price will almost always be less than the list
+price unless the user has no idea what they are doing
+PM = 4.5 (for example if the spot price of Bored Apes is 100 ETH, then
+a 450 ETH lien price is 4.5 times that amount)
+Equity available = this is the amount of equity (liens) I am still
+willing to sell
+Equity sold = this is the amount of equity (liens) I have already sold
+
+One note about selling liens at a premium. If an NFT owner sells liens
+at 200% of spot price, then the amount of equity he will be allowed to
+sell will be capped at 50%, in other words the inverse of the price.
+If he sells at 300% of the price then equity will be capped at 1/3 or
+33%. If 400% (or 4 x spot price) then he is capped at 1/4 or 25%,
+always following this law of inverse ratios. This is to ensure that
+the Best of 3 System always works, because C always multiplies by PM
+which in this last case would be 4.
+
+Moreover, the NFT owner cannot sell the NFT for less than the amount
+required to repay the liens according to the Best of 3 System.
+Therefore if the Best of 3 indicates that a sale must pay out to
+lienholders a minimum of 100 ETH then the owner cannot list or sell
+his NFT for anything less than 100 ETH.
+
+In the case of a "Stale Loan" for example if a lender buys at a high
+premium say 500% (PM of 5) and the collection becomes less popular as
+happens with rugged projects or for any other reason, then the only
+recourse such a lender has is to sell his note (most likely at a
+discount). So going back to the individual NFT pages for NFTs on our
+platform, there will also be listed any liens against that NFT for
+sale by users who are not the NFT owner. For example if John buys 10%
+of my Bored Ape #1185 for 50 ETH and the spot price drops but I still
+have my lien price listed at 450 ETH, then John is free to list his
+10% for sale for whatever price he wants. He can list his 10% for 10
+ETH for example, and potential lenders will obviously buy his 10%
+before buying an additional 10% from me at the much higher price.
+
+Also as a final note, and this just follows logically from the Best of
+3 System, an owner of an NFT with liens against it may always
+repurchase those liens from lienholders for B if the liens were sold
+at spot price or at a discount, and C if the loans were sold at a
+premium.
+
+So on the Lien Platform, users can:
+
+1. Create non-custodial lien platform (LP) wallets with additional
+rules for liens
+2. Sell liens against the NFTs in their LP wallet
+3. Repurchase liens from lienholders
+4. Sell liens against NFTs they do not own
+5. Buy and sell NFTs (not liens)
+6. Make public and private offers on any individual NFT or "collection
+offers" which anyone with a Bored Ape can accept for example, for the
+sale or purchase of the actual NFT or liens against it
+
+Monetization of the Lien Platform will be through transaction fees
+which I propose to set at 2% which flows back to the platform on every
+sale or purchase of NFTs or liens against them.
+
+Additional monetization which I recommend is through a kind of
+pre-sale in which 50,000 NFTs are sold according to an increasing
+price model starting at $100 or .1 ETH for the first 100 NFTs, $200 or
+.2 ETH for the next 100 NFTs and so on up to 50,000. The total revenue
+of such a sale with 50,000 NFTs sold can be calculated as follows:
+
+50,000 x $50,000 (max price) / 2 (divided by 2 to get the average
+price) = $1.25 billion
+Multiply this number by 1.6 if the NFTs are sold in ETH rather than
+USDC ie. .1 ETH for first 100, .2 ETH for next 100 and so on
+
+But even if only 10,000 NFTs are sold according to this model, the
+revenue would be 10,000 x 10,000 / 2 = $50 million (or $80 million if
+sold in ETH)
+
+The benefits of owning one of these NFTs would be to receive some,
+most, or all of the transaction fees. For example if we allot half of
+the total 2% (ie. 1%) transaction fees to be distributed to NFT
+holders, then this 1% would be divided and distributed equally to
+every NFT. As long as the potential ROI is reasonable the NFTs will be
+seen as a good value. As the platform grows the transaction fees would
+grow thus justifying a higher NFT price.
+
+A note on distributing transaction fees to NFT holders because if it
+is done in ETH then these NFTs could be considered "securities" and
+come under SEC laws. The way to avoid this, and the way I would
+propose implementing this system is by creating our own proprietary
+coin which would be something like "Disney dollars" as follows:
+
+Every day the total transaction fees in ETH on the entire platform are
+calculated. This number is divided in half since we only intend to
+distribute half of those fees to NFT holders. Then number of of our
+proprietary coin equal to this 1% (transaction fees) are created. For
+example if 100 ETH is earned by the platform on Tuesday which is the
+total 2%, then half of that ie. 1% would be 50 ETH. We would create 50
+PC (proprietary coin) and distribute them equally to all of the NFTs
+in circulation.
+
+Rather than creating a liquidity pool which is problematic with SEC
+regulations, we will simply use our proprietary coin as a coupon for
+purchase of products only on our platform. In other words our
+proprietary coin can be spent to buy anything for sale on our platform
+but nothing else, and the value will be equal to Ethereum on our
+platform, just as a Disney dollar is equal to a dollar but only in
+Disneyland and is therefore not considered a security.
+
+Finally a demonstration of how the proprietary coin functions:
+
+Max an NFT holder receives 10 PC in distributions from transaction
+fees. Max then finds a Bored Ape on our platform which he wishes to
+buy a lien against. The lien price is 100 ETH so he can purchase 10%
+of the Bored Ape NFT for 10 PC just as if he were paying with ETH. The
+platform receives the PC, burns it and distributes 10 ETH instead to
+the NFT owner. This is the life cycle of the proporietary coin. This
+will be beneficial for the economy and volume of transactions on the
+platform, since it encourages respending of all money received by NFT
+holders back into the platform completing the ecosystem.
+
+There are many other benefits to this system, just as there are with
+any good economic model, too many to list. One example is the economic
+benefit on the entire market, when all Bored Ape holders suddenly have
+a new more beneficial way of monetizing their NFTs instead of outright
+selling them, then the supply of Bored Apes for sale will decrease and
+the price will increase. Many other phenomena like this are easy to
+find.https://github.com/Ape-Harmony/ape-harmony-docs.git
