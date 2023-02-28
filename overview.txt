@@ -299,4 +299,4 @@ benefit on the entire market, when all Bored Ape holders suddenly have
 a new more beneficial way of monetizing their NFTs instead of outright
 selling them, then the supply of Bored Apes for sale will decrease and
 the price will increase. Many other phenomena like this are easy to
-find.https://github.com/Ape-Harmony/ape-harmony-docs.git
+find.ttps://github.com/Ape-Harmony/ape-harmony-docs.git
