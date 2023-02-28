@@ -1,17 +1,28 @@
-DECENTRALIZED MACROECONOMICS 
+# DECENTRALIZED MACROECONOMICS 
 by Mychal Simka
+
 (Ape Harmony whitepaper)
 
-There is no war
-There is no peace
-There is only math
-...and apes.
+
+**There is no war**
+
+**There is no peace**
+
+**There is only math**
+
+**...and apes.**
+
 
 Apes + Math = Ape Harmony
 
--BAYC #1185 <image>
 
-INTRODUCTION
+![Bored Ape](https://i.seadn.io/gae/Q6-9wfaJkFFtgBJvXuyIX9SyrgCcmhPhFhw6waHijD-q0UW4yA4tnVzjouS0TyH4ZNGFfZHyUqRyj7rgYEHAfDpbfGKeb-VwntJt?auto=format&w=1000)
+
+*-BAYC #1185*
+
+  
+  
+**INTRODUCTION**
 
 The primary difference between sophisticated economies where skyscrapers are constructed, and primitive economies where people push cinder blocks around in a wheelbarrow, is mathematical derivatives. Not charity.
 
@@ -31,17 +42,17 @@ Decentralization is revolutionary, but despite the abuses of centralized power, 
 
 If we continue to build only according to microeconomics principles, rather than strive to balance assets through derivatives on a macroeconomic level, we will never move beyond pushing our digital wheelbarrows down the blockchain.
 
-WHAT IS APE HARMONY
+**WHAT IS APE HARMONY**
 
 Ape Harmony is a marketplace and creation tool for the purchase of derivatives of high value digital assets such as NFTs in the Bored Ape Yacht Club collection. In theory derivatives can have an indefinite number of tiers, but the first tier is simply a claim to value against an underlying asset. NFTs are not derivatives because they are the primary value stores upon which all other derivatives in the digital world are based. Therefore the fundamental derivative native to the blockchain is a note against an NFT. All digital native derivatives are built upon this. 
 
 The goals of Ape Harmony are to:
 
-1. Construct digital native derivatives based on macroeconomics and sophisticated real world economies tailored for the blockchain
-2. Facilitate and evangelize the sale of financial products based on those derivatives which will with mathematical certainty stabilize volatility in prices and volume of their underlying digital markets
-3. Spark a conversation that goes beyond technical analysis, DeFi, ReFi and every other type of Fi, to inspire better minds than my own to study decentralized macroeconomics (DeMac)
+* Construct digital native derivatives based on macroeconomics and sophisticated real world economies tailored for the blockchain
+* Facilitate and evangelize the sale of financial products based on those derivatives which will with mathematical certainty stabilize volatility in prices and volume of their underlying digital markets
+* Spark a conversation that goes beyond technical analysis, DeFi, ReFi and every other type of Fi, to inspire better minds than my own to study decentralized macroeconomics (DeMac)
 
-WHY NFTS
+**WHY NFTS**
 
 NFTs are non-fungible. The value of fungible things is dependent on non-fungible things. The value of fish (as a commodity) and wheat (a fungible good) depend on the inherent value of the non-fungible human being who eats them. Fungible building materials and construction have value because of real estate which is unique and non-fungible.
 
@@ -51,13 +62,13 @@ NFTs are the real estate of the blockchain. This is not to be confused with virt
 
 The value of NFTs which are utilitarian in purpose relies on those which are not. This is reflected in the difference in price between Bored Apes and Otherside land deeds for example. Humans are the highest order being which we know of in the physical world. Unless we find some kind of digital God on the blockchain, NFTs will continue to be the highest order and most truly non-fungible being in the digital world.
 
-WHY DERIVATIVES
+**WHY DERIVATIVES**
 
 Derivatives extend monetization of assets without giving up ownership. Additional monetization means that more owners will make use of them and thus less will list for sale on the open market. When the supply goes down, the price goes up.
 
 There are risks in derivatives being abused by bad actors (eg. 2008 financial crisis) but just because the internal combustion engine can be used in war vehicles which kill people, doesn't mean the automobile should have never been invented. In the case of derivatives the reward greatly outweighs the risk.
 
-NATIVE DIGITAL DERIVATIVES
+**NATIVE DIGITAL DERIVATIVES**
 
 The giant swings in volatility between fearful and bullish in crypto can be boiled down to two sides of the value question: Do native digital value stores have any real value?Even blockchain enthusiasts show an underlying skepticism by striving to tie digital value back to real world value, as if it will just disappear without being connected to something you can touch.
 
@@ -65,7 +76,7 @@ Why do cryptocurrencies and third world economies look so similar? It's not a co
 
 I do believe that emerging markets like tokenized physical art and real estate deeds on chain will be worth billions of dollars in the near future, but they won't solve the macroeconomic problem of the digital economy. Native digital derivatives must be based on native digital value stores. The primary asset underlying all derivatives is that which is unique or non-fungible. Therefore all digital native derivatives are based on NFTs.
 
-DERIVATIVE TIERS
+**DERIVATIVE TIERS**
 
 Derivatives come in many colors and sizes but the primary types are liens, fractionalization and guarantees. Shares in Microsoft are an example of fractionalization. An option, whether put or call, is a guarantee as is any type of insurance. Buying and selling short or long are all derivatives based on lending.
 
@@ -73,7 +84,7 @@ Complex derivatives combine two or more functionalities of derivative types, suc
 
 Synthetic derivatives are not true derivatives because they are not connected and have no claim to the underlying asset. You can never redeem a synthetic for the underlying asset like you can with an option. They are pixie dust, a bet rather than stake in an unknown future value, and should be classified as gambling rather than investing because they are essentially putting money into nothing. Ape Harmony will never offer nor facilitate the sale of synthetics because they cause havoc rather than good to markets.
 
-DECENTRALIZED P2P LENDING FOR NFTS
+**DECENTRALIZED P2P LENDING FOR NFTS**
 
 The problem with loans in general is they can be predatory. The borrower may have few options and is forced to accept unfavorable terms. A truly decentralized peer to peer derivatives market eliminates this problem because all options are available to everyone everywhere all the time. 
 
@@ -85,13 +96,13 @@ Ape Harmony will use a peer to peer system rather than a lending pool and we hav
 
 Rather than a marketplace to buy and sell NFTs, Ape Harmony is a marketplace to buy and sell derivatives of NFTs such as loans against that NFT. Because all of the terms are controllable by the two parties, it is possible to borrow against an NFT in a much more comfortable and less risky way. Ape Harmony creates the tools for two parties to transact with one another in this way, but we do not make the loans ourselves, nor do we have a pool or DAO that makes those loans in some top down way.
 
-BENEFITS FOR BORROWERS (NFT OWNERS)
+**BENEFITS FOR BORROWERS (NFT OWNERS)**
 
 1. Eliminate the risk of auto-liquidation. The primary danger of borrowing against an NFT is that it may get auto-liquidated if market conditions change or too much interest accrues etc. Through peer-to-peer Ape Harmony lets users decide on terms in each loan at time of transaction, so if they want to specify an interest accruing yield on the loan, or expiration date in the terms, they can do so. In case of default there is always risk of auto-liquidation, so we prefer users instead make use of the powerful guarantees and discounts to secure a loan with profitable terms. Unlike other lending protocols, Ape Harmony enables lenders and borrowers to work together in way that is beneficial to both sides with no risk of auto-liquidation. All you have to do is set the interest rate to 0% and expiration to none, and the only person who can initiate a sale is the owner of the NFT regardless of how many liens against it.
 
 2. Keep your NFT in your wallet. Another major drawback of lending pools is that the owner has to transfer the NFT out of his wallet into the pool's wallet. Not only is this psychologically difficult but the owner gives up utility like being able to sign in to third party sites, not to mention not being able to claim free airdrops worth thousands of dollars. Ape Harmony requires a transfer of the NFT to a new address, but that address will be a smart contract wallet the owner controls. The owner can use it just like any wallet, but can't transfer the NFT out until the loans are paid off.
 
-BENEFITS FOR LENDERS (LIEN HOLDERS)
+**BENEFITS FOR LENDERS (LIEN HOLDERS)**
 
 1. When a user funds a loan against an NFT, he receives an NFT lien (claim to value) on a highly desirable asset such as a Bored Ape. This provides a low friction entry for users without the means to purchase a Bored Ape outright, to own the next best thing, a lien NFT whose value is truly tied to the underlying NFT it is lending against.
 
@@ -99,80 +110,94 @@ BENEFITS FOR LENDERS (LIEN HOLDERS)
 
 3. Ape Harmony lien NFTs receive certain ownership benefits without corrupting the integrity of the original NFT as is the case with fractionalization. Ape Harmony plans to build a bridge to Polygon for lien NFTs to trade at lower gas prices and even sell on platforms like Instagram. The implications of this are that Ape Harmony lien NFTs such as those created by lending against a Bored Ape, would be the first true Polygon Bored Apes with real value tied back to the original, and without having to corrupt the integrity of the original Bored Ape.
 
-BEST OF 3 GUARANTEE (formula details)
+**BEST OF 3 GUARANTEE (formula details)**
 
-When a user makes a loan to an NFT owner, the floor price or "F" is written to the contract. Once F is determined by the oracle in our contract, the next step is to determine what price the lender paid for the loan in relation to F as well as the the percentage of the total equity he received in the transaction.
+When a user makes a loan to an NFT owner, the floor price or **F** is written to the contract. Once **F** is determined by the oracle in our contract, the next step is to determine what price the lender paid for the loan in relation to **F** as well as the the percentage of the total equity he received in the transaction.
 
-For example if F of the Bored Ape making the loan is 80 ETH and the lender pays 8 ETH for 10% of the equity of a Bored Ape NFT, then he purchased the lien at F. If he paid 10 ETH for 10% then he purchased the lien at 125% of F. If 12 ETH then 150% of F and if 6ETH then 75% of F.
+For example if **F** of the Bored Ape making the loan is 80 ETH and the lender pays 8 ETH for 10% of the equity of a Bored Ape NFT, then he purchased the lien at F. If he paid 10 ETH for 10% then he purchased the lien at 125% of **F**. If 12 ETH then 150% of **F** and if 6ETH then 75% of **F**.
 
-F is not a fixed value but relative to the current floor price of the NFT collection ie. F only has meaning when given a specific date and time, for example F of 2/11/23 at 3:05 PM.
+**F** is not a fixed value but relative to the current floor price of the NFT collection ie. **F** only has meaning when given a specific date and time, for example **F** of 2/11/23 at 3:05 PM.
 
-The two times we must determine F are:
+The two times we must determine **F** are:
 
-1. When a lien is created and the lender receives the lien NFT. This is the LaunchPrice or "L".
+* **L** or Launch Price ie. when a lien is created and the lender receives the lien NFT
 
-2. When a lien is terminated by the primary NFT owner either repaying the lien or selling the NFT to a third party forcing the repayment to the lender from the proceeds of the sale. This is the End Price or "E".
+* **E** or End Price ie. when a lien is terminated by the primary NFT owner either repaying the lien or selling the NFT to a third party forcing the repayment to the lender from the proceeds of the sale
 
-L and E are recorded in order to enforce fair distributions of the NFT sales proceeds to lien holders. This is achieved by our "Best of 3" System". 
+**L** and **E** are recorded in order to enforce fair distributions of the NFT sales proceeds to lien holders. This is achieved by our **Best of 3** guarantee. 
 
-A few more variables are needed in order to create the Best of 3 System:
+A few more variables are needed in order to write the **Best of 3** formula:
 
-The Adjusted Price or "AP" is derived by taking the amount in ETH paid by the lender divided by the percentage of equity received for the lien. For example if the lender pays 10 ETH for 10% of a Bored Ape when the spot price is 80 ETH, then the AP is 100 ETH.
+* **AP** or Adjusted Price is derived by taking the amount in ETH paid by the lender divided by the percentage of equity received for the lien. For example if the lender pays 10 ETH for 10% of a Bored Ape when **F** is 80 ETH, then the **AP** is 100 ETH.
 
-The Price Multiplier or "PM" is derived by dividing the adjusted price (AP) by F. In this case 100 ETH by 80 ETH which is 1.25
+* **PM** or Price Multiplier is derived by dividing **AP** by **F**. In this case 100 ETH by 80 ETH which is 1.25
 
-The Equity Percentage  or "EP" is how much equity the lender received when he bought the lien.
+* **EP** or Equity Percentage is how much equity the lender received when he bought the lien.
 
-The Real Sale Price or "RP" is the actual amount the primary NFT sells for upon liquidation to repay the liens.
+* **RP** or Real Sale Price or is the actual amount the primary NFT sells for upon liquidation to repay the liens.
 
-The "Best of 3" Guarantee ensures that upon liquidation of an NFT which has liens against it, the lender shall receive the best (or highest) of following 3 amounts:
+The **Best of 3** guarantee ensures that upon liquidation of an NFT which has liens against it, the lender shall receive the best (or highest) of following 3 amounts:
 
-A. RP times EP
-B. E times EP
-C. E times EP times PM
+* **A** = **RP** times **EP**
+  
+* **B** = **E** times **EP**
 
-For example if F is 80 ETH but the lender buys 10% for only 7.2 ETH then he will have bought the lien at a 10% discount, and thus in the case of discounted liens C will be less than B, while the reverse is true in a more bullish market where lenders pay a premium for the liens.
+* **C** = **E** times **EP** times **PM**
+
+For example if **F** is 80 ETH but the lender buys 10% for only 7.2 ETH then he will have bought the lien at a 10% discount, and thus in the case of discounted liens **C** will be less than **B**, while the reverse is true in a more bullish market where lenders pay a premium for the liens.
 
 A couple practical examples:
 
-1. If Mike buys 10% equity of a Bored Ape for 7.2 ETH when F is 80 ETH and the NFT owner later sells the NFT for 99 ETH when F is 90 ETH then...
+1. If Mike buys 10% equity of a Bored Ape for 7.2 ETH when **F** is 80 ETH and the NFT owner later sells the NFT for 99 ETH when **F** is 90 ETH then...
 
-EP = 10%
-PM = 0.9
-L = 80 ETH
-E = 90 ETH
-RP = 99 ETH
+* **EP** = 10%
 
-According to the "Best of 3" Guarantee...
+* **PM** = 0.9
 
-A = 9.9 ETH
-B = 9 ETH
-C = 8.1 ETH
+* **L** = 80 ETH
+  
+* **E** = 90 ETH
+  
+* **RP** = 99 ETH
 
-Therefore Mike receives A or 9.9 ETH which is the highest value or "best of 3" at the time of sale.
+According to the **Best of 3** guarantee...
 
-2. If Lucy buys 20% equity of a Bored Ape for 25 ETH when F is 100 ETH and the NFT owner later sells the NFT for 180 ETH when F is 200 ETH then...
+* **A** = 9.9 ETH
+  
+* **B** = 9 ETH
+  
+* **C** = 8.1 ETH
 
-EP = 20%
-PM = 1.25
-L = 100 ETH
-E = 200 ETH
-RP = 180 ETH
+Therefore Mike receives **A** or 9.9 ETH which is the highest value or **Best of 3** at the time of sale.
 
-According to the "Best of 3" Guarantee...
+2. If Lucy buys 20% equity of a Bored Ape for 25 ETH when **F** is 100 ETH and the NFT owner later sells the NFT for 180 ETH when **F** is 200 ETH then...
 
-A = 180 x 20% = 36 ETH
-B = 200 x 20% = 40 ETH
-C = 200 x 20% x 1.25 = 50 ETH
+* **EP** = 20%
+  
+* **PM** = 1.25
+  
+* **L** = 100 ETH
+  
+* **E** = 200 ETH
+  
+* **RP** = 180 ETH
 
-Therefore Lucy receives C or 50 ETH which is the highest value and "best of 3" at the time of sale.
+According to the **Best of 3** guarantee...
 
-N.B. MINTING LIENS AT A PREMIUM
+* **A** = 180 x 20% = 36 ETH
+  
+* **B** = 200 x 20% = 40 ETH
+  
+* **C** = 200 x 20% x 1.25 = 50 ETH
+
+Therefore Lucy receives **C** or 50 ETH which is the highest value and **Best of 3** at the time of sale.
+
+**N.B. MINTING LIENS AT A PREMIUM**
 
 If an NFT owner mints liens to a lender at 200% of spot price, then the total equity he will be allowed to loan against is capped at 50%. If he sells at 300% of the price then equity will be capped at 1/3 or 33%. If 400% (or 4 x spot price) then he is capped at 1/4 or 25%, always in inverse ratio.
  
-This is to ensure that the Best of 3 Guarantee always works, because C always multiplies by PM which in this last case would be 4.
+This is to ensure that the **Best of 3** Guarantee always works, because **C** always multiplies by PM which in this last case would be 4.
 
-N.B. MINIMUM SALE PRICE FOR TERMINATION OF LIENS
+**N.B. MINIMUM SALE PRICE FOR TERMINATION OF LIENS**
 
-If the NFT owner wants to sell the NFT for less than the amount required to repay the liens according to the Best of 3 System, he would have to first make offers to the lien holders to cash them out at a discounted price.
+If the NFT owner wants to sell the NFT for less than the amount required to repay the liens according to the **Best of 3** guarantee, he would have to first make offers to the lien holders to cash them out at a discounted price.
