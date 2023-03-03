@@ -30,71 +30,69 @@ No humanitarian led effort can ever stabilize an economy. We know giving a man 
 
 Some things are suitable for DAO governance. For example how to spend the town beautification budget. There are other things on which the very idea of voting is absurd. (No matter how many people vote that 2 + 2 = 5, it will always be wrong.)
 
-Derivatives enable us to extract future value of assets in the present, and do so in a mathematically precise way. Their efficiency is dependent on free markets with multiple tiers ie. assets/value stores --> liens/notes --> guarantees/insurance and so on.
+Derivatives enable us to extract the future value of assets in the present, and do so in a mathematically precise way. Their efficiency is dependent on free markets with multiple tiers ie. assets/value stores --> liens/notes --> guarantees/insurance and so on.
 
 Derivatives are constructed with specific formulas. There is no room for opinions or preferences. They either work or do not. When they work they are extremely powerful, but with great power comes great risk.
 
-There are 2 main risks with derivatives: 1. manipulation by concealment ie. bad actors in a black box, and 2. manipulation by complexity ie. bad actors and ignorant clients ie. not reading the fine print. The first can be eliminated immediately with full transparency. The second can be eliminated gradually by clients becoming more educated, and as a natural result of competition in a free and decentralized economy.
+Balanced equity-backed derivatives are the foundation of all thriving economies but they do present new risks: 1. manipulation by concealment ie. bad actors in a black box, and 2. manipulation by complexity ie. bad actors and ignorant clients ie. not reading the fine print. The first can be eliminated with full transparency. The second can be decreased by clients becoming educated, and as a natural result of competition in a free and decentralized economy.
 
 The 2008 financial crisis was caused by manipulation of the first type. Practices such as naked short selling, and black box packaged derivatives, are abuses, not inherent flaws in derivatives themselves.
 
-Decentralization is revolutionary, but despite the abuses of centralized power, the last several hundred years of economic development can teach us a lot.
+Decentralization is revolutionary, but it is not everything. Despite the abuses of centralized power over the last several hundred years, macroeconomics and history can still teach us a lot.
 
 If we continue to build only according to microeconomics principles, rather than strive to balance assets through derivatives on a macroeconomic level, we will never move beyond pushing our digital wheelbarrows down the blockchain.
 
 ## WHAT IS APE HARMONY
 
-Ape Harmony is a marketplace and creation tool for the purchase of derivatives of high value digital assets such as NFTs in the Bored Ape Yacht Club collection. In theory derivatives can have an indefinite number of tiers, but the first tier is simply a claim to value against an underlying asset. NFTs are not derivatives because they are the primary value stores upon which all other derivatives in the digital world are based. Therefore the fundamental derivative native to the blockchain is a note against an NFT. All digital native derivatives are built upon this. 
+Ape Harmony is a marketplace and creation tool for derivatives like equity-backed simple liens on high value NFTs like Bored Apes. In theory derivatives can have indefinite tiers, but the first tier is simply a claim to value against an underlying asset ie. a lien. NFTs are not derivatives because they are the actual value stores upon which derivatives are based. The primary derivative on the blockchain is a note against an NFT. All native digital derivatives are built upon NFTs. 
 
 The goals of Ape Harmony are to:
 
-* Construct digital native derivatives based on macroeconomics and sophisticated real world economies tailored for the blockchain
-* Facilitate and evangelize the sale of financial products based on those derivatives which will with mathematical certainty stabilize volatility in prices and volume of their underlying digital markets
-* Spark a conversation that goes beyond technical analysis, DeFi, ReFi and every other type of Fi, to inspire better minds than my own to study decentralized macroeconomics (DeMac)
+* Construct native digital derivatives based on macroeconomics and sophisticated real world economies
+* Facilitate and evangelize the sale of derivatives which will with mathematical certainty help to stabilize the economy of their underlying digital markets
+* Spark a conversation that goes beyond technical analysis, DeFi, ReFi and every other type of Fi, to inspire better minds than my own to study decentralized macroeconomics
 
 ## WHY NFTS
 
-NFTs are non-fungible. The value of fungible things is dependent on non-fungible things. The value of fish (as a commodity) and wheat (a fungible good) depend on the inherent value of the non-fungible human being who eats them. Fungible building materials and construction have value because of real estate which is unique and non-fungible.
+NFTs are non-fungible. The value of fungible things is dependent on non-fungible things. The value of wheat amd fish as commodities depend upon the value of the non-fungible human who eats them. Fungible building materials and construction have value because of real estate which is unique and non-fungible.
 
-Everything can be seen in a fungible or non-fungible way- for example your pet fish vs. a fishstick. What is unique is prior to and underlies that which is not. Therefore derivatives must start with and build upon that which is most truly non-fungible. On the blockchain these unique value stores are called NFTs. 
+Everything can be seen as fungible or non-fungible- for example your pet fish vs. a fishstick. What is unique is prior to that which is not. Derivatives must start with and build upon that which is most truly non-fungible ie. NFTs. 
 
-NFTs are the real estate of the blockchain. This is not to be confused with virtual worlds. Metaverses miss the point when it comes to the non-fungible value of real estate which is based solely on consensus, not in looking like a house in the real world. All NFTs are like digital real estate, not just metaverse lands.
+Utilitarian NFTs like metaverse lands rely on non-utilitarian ones for their value, as seen in the market for Bored Apes vs. Otherside land deeds. As far as we know, humans are the highest order being in the physical world and non-utilitarian NFTs are the highest and most truly non-fungible being in the digital world.
 
-The value of NFTs which are utilitarian in purpose relies on those which are not. This is reflected in the difference in price between Bored Apes and Otherside land deeds for example. Humans are the highest order being which we know of in the physical world. Unless we find some kind of digital God on the blockchain, NFTs will continue to be the highest order and most truly non-fungible being in the digital world.
+NFTs are the real estate of the blockchain. This is not to be confused with virtual worlds. The true value of real estate is based on consensus, not in looking like a real house. All NFTs are the real estate of the blockchain, not just metaverse lands.
 
 ## WHY DERIVATIVES
 
-Derivatives extend monetization of assets without giving up ownership. Additional monetization means that more owners will make use of them and thus less will list for sale on the open market. When the supply goes down, the price goes up.
+Derivatives extend the monetization of assets without giving up ownership. With the power of derivatives less owners list the primary asset for sale on the open market. Why buy the cow when you can get the milk for free? And when the supply goes down, the price goes up. 
 
-There are risks in derivatives being abused by bad actors (eg. 2008 financial crisis) but just because the internal combustion engine can be used in war vehicles which kill people, doesn't mean the automobile should have never been invented. In the case of derivatives the reward greatly outweighs the risk.
+Derivatives not only contribute but multiply investments in digital assets. If an NFT is wroth 100 ETH, equity-backed liens for 90 ETH would nearly double the amount invested in the same asset. Insuring, packaging, and other derivatives have a similar effect, and such investments are multiplied in more or less the same ratio as the number of tiers of derivatives backed by an asset. This phenomena has a positive effect on the entire market
 
 ## NATIVE DIGITAL DERIVATIVES
 
-The giant swings in volatility between fearful and bullish in crypto can be boiled down to two sides of the value question: Do native digital value stores have any real value?Even blockchain enthusiasts show an underlying skepticism by striving to tie digital value back to real world value, as if it will just disappear without being connected to something you can touch.
-
 Why do cryptocurrencies and third world economies look so similar? It's not a coincidence. They are both missing the same thing- a sophisticated system of multi-tiered derivatives based on native assets. Importing a bunch of assets from another economy might put a band-aid on the problem, but will not have any lasting benefit on itself.
 
-I do believe that emerging markets like tokenized physical art and real estate deeds on chain will be worth billions of dollars in the near future, but they won't solve the macroeconomic problem of the digital economy. Native digital derivatives must be based on native digital value stores. The primary asset underlying all derivatives is that which is unique or non-fungible. Therefore all digital native derivatives are based on NFTs.
+I do believe that emerging markets like tokenized physical art and real estate deeds on chain will be worth billions of dollars in the near future, but they won't solve the macroeconomic problem of the digital economy. Native digital derivatives must be based on native digital value stores ie. NFTs.
 
-## DERIVATIVE TIERS
+## DERIVATIVE TYPES AND TIERS
 
-Derivatives come in many colors and sizes but the primary types are liens, fractionalization and guarantees. Shares in Microsoft are an example of fractionalization. An option, whether put or call, is a guarantee as is any type of insurance. Buying and selling short or long are all derivatives based on lending.
+Types of derivatives include liens, fractionalization and guarantees. Shares in Microsoft are an example of fractionalization. An option, whether put or call, is a guarantee as is any type of insurance. Buying and selling short or long are all derivatives based on lending.
 
-Complex derivatives combine two or more functionalities of derivative types, such as a loan with set guarantees. Compound derivatives can be either a derivative of a derivative, or a package of several derivatives of the same or different types. The words "compound" and "complex" are often used interchangeably. Both are forms of higher tier derivatives further removed but still connected to the primary asset which in the case of digital native is the NFT.
+Synthetic derivatives have no claim to the underlying asset, and should be classified as gambling rather than investing because they are essentially putting money into nothing. They cause havoc rather than good to markets.
 
-Synthetic derivatives are not true derivatives because they are not connected and have no claim to the underlying asset. You can never redeem a synthetic for the underlying asset like you can with an option. They are pixie dust, a bet rather than stake in an unknown future value, and should be classified as gambling rather than investing because they are essentially putting money into nothing. Ape Harmony will never offer nor facilitate the sale of synthetics because they cause havoc rather than good to markets.
+Complex and compound derivatives combine two or more functionalities of derivative types, such as a loan with set guarantees, a derivative of a derivative, or a package of several derivatives of the same or different types. But unlike synthetics, they are still equity-backed by a primary digital value store ie. an NFT.
 
 ## DECENTRALIZED P2P LENDING FOR NFTS
 
-The problem with loans in general is they can be predatory. The borrower may have few options and is forced to accept unfavorable terms. A truly decentralized peer to peer derivatives market eliminates this problem because all options are available to everyone everywhere all the time. 
+In small or undeveloped markets, borrowers have few options and must transact with unfavorable terms. A truly decentralized peer to peer derivatives market eliminates this problem because all options are available to everyone everywhere all the time. 
 
-Loans and other derivatives on the blockchain are quite terrible (and risky!) by comparison with things like home loans. Given the innovations in technology and lack of other limitations, native digital loans should in fact be better and less risky than traditional finance.
+Loans from DAO-based lending pools, including and especially on NFTs, are incredibly risky because of auto-liquidation. By focusing on discounted loans and liens which function more like co-investing or leasing than simply yield farming, Ape Harmony has developed a new type of derivative which allows borrowers to monetize assets without the risk of liquidation, and lenders to capitalize on the true value of the asset rather than just the terms of the loan. 
 
-While DAOs and lending pools appear to be improvements, they in fact contribute to the problem. When you go into a bank in the U.S. to get a loan, you are not really getting the funds from the bank itself. If you compress the entire transaction chronologically, when you request a loan, the bank shops the loan to third parties who fund the loan, so while it's not truly peer to peer (there is a broker in the middle) it is close to P2P because market competition between third parties to fund your loan helps you get better terms unless the broker egregiously keeps the savings for himself. This element of competition is almost completely missing in lending pools, and as such has a lot of the same problems of centralized top down hierarchical economies.
+When you go into a bank in the U.S. to get a loan, the bank shops the loan to third parties who fund the loan, so while it's not truly peer to peer (there is a broker in the middle) it is close to P2P because market competition between third parties to fund your loan helps you get better terms. This element of competition is almost completely missing in automated lending pools, and is why many DAOs which look friendly on the surface actually contribute to a  centralized top down hierarchical economy.
 
-Ape Harmony will use a peer to peer system rather than a lending pool and we have no plans for a DAO. It will function as a marketplace. The user experience is not greatly diminished when you make a purchase from a third party seller on Amazon. Similarly it should be a seamless transaction on our platform whether you purchase from Ape Harmony or a third party seller.
+Ape Harmony is a market-based peer-to-peer system rather than a lending pool. Just as the user experience is the same if you make a purchase from a third party seller on Amazon or from Amazon itself, it will be equally seamless on our platform whether you purchase from Ape Harmony directly or a third party on the marketplace.
 
-Rather than a marketplace to buy and sell NFTs, Ape Harmony is a marketplace to buy and sell derivatives of NFTs such as loans against that NFT. Because all of the terms are controllable by the two parties, it is possible to borrow against an NFT in a much more comfortable and less risky way. Ape Harmony creates the tools for two parties to transact with one another in this way, but we do not make the loans ourselves, nor do we have a pool or DAO that makes those loans in some top down way.
+Rather than buying NFTs themselves, the purpose of the Ape Harmony marketplace is to buy and sell derivatives of NFTs such as liens and loans. All terms are controlled by the two parties, so it is up to the user to decide on his or her risk level for each loan. Ape Harmony designs and offers the tools, but we do not make the loans ourselves, nor do we have a pool or DAO that makes those loans in a top down way.
 
 ## BENEFITS FOR BORROWERS (NFT OWNERS)
 
