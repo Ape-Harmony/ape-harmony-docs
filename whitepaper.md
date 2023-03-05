@@ -49,7 +49,7 @@ If we continue to build only according to microeconomics principles, rather than
 
 ## WHAT IS APE HARMONY
 
-Ape Harmony is a marketplace and creation tool for derivatives like equity-backed simple liens on high value NFTs like Bored Apes. In theory derivatives can have indefinite tiers, but the first tier is simply a claim to value against an underlying asset ie. a lien. NFTs are not derivatives because they are the actual value stores upon which derivatives are based. The primary derivative on the blockchain is a note against an NFT. All native digital derivatives are built upon NFTs. 
+Ape Harmony is a marketplace and creation tool for equity-backed derivatives like simple liens on high value NFTs like Bored Apes. In theory derivatives can have indefinite tiers, but the first tier is simply a claim to value against an underlying asset ie. a lien. NFTs are not derivatives because they are the actual value stores upon which derivatives are based. The primary derivative on the blockchain is a note against an NFT. All native digital derivatives are built upon NFTs. 
 
 The goals of Ape Harmony are to:
 
