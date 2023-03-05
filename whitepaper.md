@@ -24,7 +24,7 @@
   
 ## INTRODUCTION
 
-The primary difference between sophisticated economies where skyscrapers are constructed, and primitive economies where people push cinder blocks around in a wheelbarrow, is mathematical derivatives. Not charity.
+The primary difference between sophisticated economies where skyscrapers are constructed, and primitive economies where people push cinder blocks around in a wheelbarrow, is mathematical derivatives.
 
 No humanitarian led effort can ever stabilize an economy. We know giving a man a fish is futile. But teaching a man to fish is also obsolete. What we need now is derivatives of fish.
 
