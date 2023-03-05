@@ -34,7 +34,12 @@ Derivatives enable us to extract the future value of assets in the present, and
 
 Derivatives are constructed with specific formulas. There is no room for opinions or preferences. They either work or do not. When they work they are extremely powerful, but with great power comes great risk.
 
-Balanced equity-backed derivatives are the foundation of all thriving economies but they do present new risks: 1. manipulation by concealment ie. bad actors in a black box, and 2. manipulation by complexity ie. bad actors and ignorant clients ie. not reading the fine print. The first can be eliminated with full transparency. The second can be decreased by clients becoming educated, and as a natural result of competition in a free and decentralized economy.
+Balanced equity-backed derivatives are the foundation of all thriving economies but they do present new risks:
+
+1. manipulation by concealment ie. bad actors in a black box
+2. manipulation by complexity ie. bad actors and ignorant clients ie. not reading the fine print. 
+
+The first can be eliminated with full transparency. The second can be decreased by clients becoming educated, and as a natural result of competition in a free and decentralized economy.
 
 The 2008 financial crisis was caused by manipulation of the first type. Practices such as naked short selling, and black box packaged derivatives, are abuses, not inherent flaws in derivatives themselves.
 
