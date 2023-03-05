@@ -41,7 +41,7 @@ Balanced equity-backed derivatives are the foundation of all thriving economies 
 
 The first can be eliminated with full transparency. The second can be decreased by clients becoming educated, and as a natural result of competition in a free and decentralized economy.
 
-The 2008 financial crisis was caused by manipulation of the first type. Practices such as naked short selling, and black box packaged derivatives, are abuses, not inherent flaws in derivatives themselves.
+The 2008 financial crisis was caused by manipulation of the first type. Practices such as naked short selling, and black box packaged derivatives, are abuses of, not inherent flaws in, derivatives themselves.
 
 Decentralization is revolutionary, but it is not everything. Despite the abuses of centralized power over the last several hundred years, macroeconomics and history can still teach us a lot.
 
