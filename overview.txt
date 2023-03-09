@@ -16,15 +16,6 @@ not the platform or us as a company) but will be restricted by certain
 rules written to the blockchain contract at the creation of each
 individual wallet as well as whenever loans are sold.
 
-The main risks as I see them, are 1. someone might learn about the
-system and release a similar platform before we do and thus steal our
-first mover advantage, and 2. we might make critical errors in the
-coding of the platform undermining the trust required by our customers
-to use the platform, and of these potential coding errors the worst
-would be errors in the solidity (blockchain) code, so while the
-platform is not extremely complex, it is of absolute importance that
-we 1. build it in secret and 2. build it without any critical errors
-upon launch.
 
 The main motivation for NFT owners to use our platform is that they
 can monetize their NFT without selling it, and unlike other lending
@@ -71,15 +62,6 @@ Friday it is 85 ETH and so on. So spot price only has meaning when
 given a specific date and time, for example the spot price on 2/11/23
 at 3:05 PM.
 
-There are two times we must determine spot price: 1. when the lien is
-created, in other words when a lender/investor buys a lien from an NFT
-owner, and 2. when the lien is destroyed by NFT owner either repaying
-the lien or selling the NFT to a third party forcing the repayment to
-the lender from the proceeds of the sale. The first we call the Launch
-Price or "L" (the launch or publishing to the blockchain of the lien)
-and the second we call the End Price or "E" when the lien is destroyed
-according the rules of the contract.
-
 The lien platform, the wallets created on it, and every contract
 created by the wallets use L and E which are just spot prices taken at
 two specific dates and times, in order to enforce fair liquidations of
@@ -94,67 +76,6 @@ if the lender pays 10 ETH for 10% of a Bored Ape when the spot price
 is 80 ETH, then the AP is 100 ETH. Next we determine the Price
 Multiplier or "PM" by dividing the adjusted price (AP) by the spot
 price (SP), for example in this case 100 ETH by 80 ETH which is 1.25
-
-The final two numbers we must note are the "Equity Percentage"  or EP
-which is simply how much equity the lender received when he bought the
-lien, and the "Real Sale Price" or RP which is simply the actual
-amount the NFT sells for upon liquidation to repay the liens.
-
-The "BEST OF 3" system ensures that upon liquidation of an NFT which
-has liens against it, the lender shall receive the best (or highest)
-of 3 amounts. The three amounts are:
-
-A. RP times EP
-B. E times EP
-C. E times EP times PM
-
-The reason we must account for both the second and third options, is
-that a lender might purchase a lien at a discount to the current spot
-price. For example if the spot price of Bored Apes is 80 ETH but the
-lender buys 10% for only 7.2 ETH then he will have bought the lien at
-a 10% discount, and thus in the case of discounted liens C will be
-less than B, while the reverse is true in a more bullish market where
-lenders pay a premium for the liens.
-
-A few practical examples:
-
-If Mike buys 10% equity of a Bored Ape for 7.2 ETH when the spot price
-is 80 ETH and the NFT owner later sells the NFT for 99 ETH when the
-spot price is 90 ETH then...
-
-EP = 10%
-PM = 0.9
-L = 80 ETH
-E = 90 ETH
-RP = 99 ETH
-
-According to the Best of 3 System...
-
-A = 9.9 ETH
-B = 9 ETH
-C = 8.1 ETH
-
-Therefore Mike receives A or 9.9 ETH which is the highest value or
-"best of 3" at the time of this sale.
-
-If Lucy buys 20% equity of a Bored Ape for 25 ETH when the spot price
-is 100 ETH and the NFT owner later sells the NFT for 180 ETH when the
-spot price is 200 ETH then...
-
-EP = 20%
-PM = 1.25
-L = 100 ETH
-E = 200 ETH
-RP = 180 ETH
-
-According to the Best of 3 System...
-
-A = 180 x 20% = 36 ETH
-B = 200 x 20% = 40 ETH
-C = 200 x 20% x 1.25 = 50 ETH
-
-Therefore Lucy receives C or 50 ETH which is the highest value and
-"best of 3" at the time of sale.
 
 The Lien Platform the creation of a new wallet by NFT owners in order
 to sell liens against their NFT, but in many ways this wallet
